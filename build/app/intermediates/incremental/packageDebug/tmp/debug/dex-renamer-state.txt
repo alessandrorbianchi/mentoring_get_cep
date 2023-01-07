@@ -1,0 +1,4 @@
+#Mon Dec 12 20:29:22 BRT 2022
+base.0=/home/alessandro.bianchi@db1.com.br/Desktop/Alessandro/Flutter/mentoring_get_cep/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
